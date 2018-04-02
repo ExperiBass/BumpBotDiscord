@@ -1,4 +1,5 @@
 {
     "prefix": "!",
-    "token": "Token_Here"
+    "token": "Token_Here",
+    "channel": "id"
 }
