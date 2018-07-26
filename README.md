@@ -1,2 +1,3 @@
 # BumpBotDiscord
-A bot for bumping your server on your listing site! REQUIRES THE SITES BOT TO WORK!
+This bot "bumps" your Discord server on the listing website you use.
+The default site is https://www.discordlist.me, and to change to your site, you replace `dlm!bump` on line 8 in `bumpbot.js`.
